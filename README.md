@@ -94,7 +94,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👥 Maintainers
 | Name | Role | Contact |
 |------|------|----------|
-| George| Project maintainer | [@George705](https://github.com/George705) |
+| George + Team| Project maintainer | [@George705](https://github.com/George705) |
 
 ---
 
