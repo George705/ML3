@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "datascrub-cli"
+version = "0.1.0"
+description = "CLI to scan and mask PII in CSV files (emails, phones, SSNs)."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{name = "datascrub-cli contributors"}]
+dependencies = []
+[project.scripts]
+datascrub = "datascrub.__main__:main"
